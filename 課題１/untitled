@@ -1,0 +1,17 @@
+
+
+ducument.getElementId("hoge");
+$("#hoge").addClass("fuga");
+$(".hoge").addClass("fuga");
+$("hoge").addClass("fuga");
+$("hoge").addClass("fuga");
+$("hoge").addClass("fuga");
+$("hoge").addClass("fuga");
+$("hoge").addClass("fuga");
+$("hoge").addClass("fuga");
+$("hoge").addClass("fuga");
+
+クラスやスタイルの操作が容易
+アニメーションが豊富
+クロスブラウザ対策をしている
+
